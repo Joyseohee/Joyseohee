@@ -23,15 +23,6 @@
 
 ---
 
-## 💡 About Me
-
-- Java & Kotlin 기반 백엔드 서비스 개발 경험
-- Spring Boot, JPA, MySQL, Kafka, Redis 등 실무 경험
-- OOP 기반 설계에 관심
-- 코드 품질과 협업 커뮤니케이션을 중요하게 생각합니다
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**  
